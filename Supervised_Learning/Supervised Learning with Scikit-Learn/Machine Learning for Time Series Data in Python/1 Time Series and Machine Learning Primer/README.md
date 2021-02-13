@@ -1,0 +1,3 @@
+Time Series and Machine Learning Primer
+
+This chapter is an introduction to the basics of machine learning, time series data, and the intersection between the two.
