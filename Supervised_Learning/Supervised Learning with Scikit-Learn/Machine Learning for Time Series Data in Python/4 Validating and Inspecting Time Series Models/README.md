@@ -1,0 +1,3 @@
+Validating and Inspecting Time Series Models
+
+Once you've got a model for predicting time series data, you need to decide if it's a good or a bad model. This chapter coves the basics of generating predictions with models in order to validate them against "test" data.
